@@ -52,7 +52,7 @@ const Autoestima = () => {
           <h3 className="text-xl font-semibold mb-2 text-green-800">¿Te gustaría hablar con un psicólogo?</h3>
           <p className="mb-4">La primera conversación es informativa, sin compromiso y sin costo. Puedes contactarme por WhatsApp.</p>
           <a
-            href="https://wa.me/527351965576"
+            href="https://wa.me/52XXXXXXXXXX"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700 transition-colors"

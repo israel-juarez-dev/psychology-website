@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="bg-green-800 text-white py-6">
       <div className="text-center">
-        <p>Psic. Israel Juárez · Cédula profesional 13693414 · México
+        <p>Psic. Juan Perez · Cédula profesional XXXXXXXXX · México
           &copy; {new Date().getFullYear()} Derechos reservados Creciendo Psicología.
         </p><a
   href="/aviso-de-privacidad"

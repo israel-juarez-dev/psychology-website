@@ -67,9 +67,9 @@ const NavBar = () => {
       <div className="hidden md:flex items-center gap-6 text-green-700 font-medium">
         {/* Info personal */}
         <div className="flex items-center gap-2 border-l pl-4 border-gray-300">
-          <span className="text-sm font-semibold">Psic. Israel Juárez</span>
+          <span className="text-sm font-semibold">Psic. Juan Perez</span>
           <a
-            href="https://wa.me/527351965576"
+            href="https://wa.me/52XXXXXXXXXX"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1 hover:underline"
@@ -79,7 +79,7 @@ const NavBar = () => {
               alt="WhatsApp logo"
               className="h-5 w-5"
             />
-            <span className="text-sm">735 196 5576</span>
+            <span className="text-sm">XXX XXX XXXX</span>
           </a>
         </div>
 
@@ -108,35 +108,35 @@ const NavBar = () => {
           </Link>
         </motion.div>
         <motion.div
-              custom={navItems.length}
-              variants={navItemVariants}
-              initial="hidden"
-              animate="visible"
-            >
-              <Link to="/preguntas-frecuentes" onClick={() => setMenuOpen(false)} className="hover:underline text-left">
-                Preguntas
-              </Link>
-            </motion.div>
+          custom={navItems.length}
+          variants={navItemVariants}
+          initial="hidden"
+          animate="visible"
+        >
+          <Link to="/preguntas-frecuentes" onClick={() => setMenuOpen(false)} className="hover:underline text-left">
+            Preguntas
+          </Link>
+        </motion.div>
         <motion.div
-              custom={navItems.length}
-              variants={navItemVariants}
-              initial="hidden"
-              animate="visible"
-            >
-              <Link to="/blog" onClick={() => setMenuOpen(false)} className="hover:underline text-left">
-                Blog
-              </Link>
-            </motion.div>
+          custom={navItems.length}
+          variants={navItemVariants}
+          initial="hidden"
+          animate="visible"
+        >
+          <Link to="/blog" onClick={() => setMenuOpen(false)} className="hover:underline text-left">
+            Blog
+          </Link>
+        </motion.div>
         <motion.div
-              custom={navItems.length}
-              variants={navItemVariants}
-              initial="hidden"
-              animate="visible"
-            >
-              <Link to="/nosotros" onClick={() => setMenuOpen(false)} className="hover:underline text-left">
-               Nosotros
-              </Link>
-            </motion.div>
+          custom={navItems.length}
+          variants={navItemVariants}
+          initial="hidden"
+          animate="visible"
+        >
+          <Link to="/nosotros" onClick={() => setMenuOpen(false)} className="hover:underline text-left">
+            Nosotros
+          </Link>
+        </motion.div>
       </div>
 
       {/* Mobile Menu Button */}
@@ -161,9 +161,9 @@ const NavBar = () => {
           >
             {/* Info personal móvil */}
             <div className="flex items-center gap-2">
-              <span className="text-sm font-semibold">Psic. Israel Juárez</span>
+              <span className="text-sm font-semibold">Psic. Juan Perez</span>
               <a
-                href="https://wa.me/527351965576"
+                href="https://wa.me/52XXXXXXXXXX"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-1"
@@ -173,7 +173,7 @@ const NavBar = () => {
                   alt="WhatsApp logo"
                   className="h-5 w-5"
                 />
-                <span className="text-sm">735 196 5576</span>
+                <span className="text-sm">XXX XXX XXXX</span>
               </a>
             </div>
 
@@ -186,7 +186,7 @@ const NavBar = () => {
               animate="visible"
             >
               <Link to="/contact" onClick={() => setMenuOpen(false)} className="hover:underline text-left">
-              Contacto
+                Contacto
               </Link>
             </motion.div>
             <motion.div

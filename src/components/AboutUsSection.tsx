@@ -24,7 +24,7 @@ const Nosotros = () => {
           </p>
 
           <p className="text-lg leading-relaxed mb-6">
-            El responsable del proyecto es el psicólogo <strong>Psic. Israel Juárez Rodríguez</strong> (Cédula profesional: <strong>13693414</strong>), egresado de una universidad privada con incorporación a la <strong>Universidad Nacional Autónoma de México (UNAM)</strong>. Esta formación garantiza una base académica sólida y reconocida oficialmente por una de las instituciones más prestigiosas del país.
+            El responsable del proyecto es el psicólogo <strong>Psic. Juan Perez</strong> (Cédula profesional: <strong>XXXXXXX</strong>), egresado de una universidad privada con incorporación a la <strong>Universidad Nacional Autónoma de México (UNAM)</strong>. Esta formación garantiza una base académica sólida y reconocida oficialmente por una de las instituciones más prestigiosas del país.
           </p>
 
           <p className="text-lg leading-relaxed mb-6">
