@@ -1,0 +1,9 @@
+
+@import "tailwindcss";
+
+
+
+html {
+    scroll-padding-top: 80px; /* Adjust based on navbar height */
+  }
+  

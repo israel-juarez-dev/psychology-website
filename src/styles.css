@@ -1,0 +1,31 @@
+@keyframes fadeIn {
+    0% {
+      opacity: 0;
+      visibility: hidden; /* Hide the element initially */
+    }
+    100% {
+      opacity: 1;
+      visibility: visible; /* Make it visible after the animation */
+    }
+  }
+  
+  .animate-fadeIn {
+    animation: fadeIn 2s ease-in 0s;
+  }
+  
+  .animate-fadeInDelayed {
+    animation: fadeIn  4s ease-in 0s ; /* 3-second delay */
+  }
+  
+  @keyframes zoomIn {
+  0% {
+    transform: scale(0.99);
+  }
+  100% {
+    transform: scale(1); /* Adjust zoom level */
+  }
+}
+
+.animate-zoomIn {
+  animation: zoomIn 4s ease-out forwards;
+}

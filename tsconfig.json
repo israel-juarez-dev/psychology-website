@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "es2017",
+      "es2017.object"
+    ],
+    "module": "esnext",
+    "jsx": "react-jsx",
+    "strict": true,
+    "moduleResolution": "node",
+    "types": ["framer-motion"],
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  "include": ["src/**/*", "custom.d.ts"],
+  "exclude": ["node_modules"]
+}
