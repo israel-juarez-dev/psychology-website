@@ -1,9 +1,9 @@
 import React from 'react';
 import { Typography, Divider, Tag } from 'antd';
-import { 
-  HeartOutlined, 
-  SafetyOutlined, 
-  RiseOutlined, 
+import {
+  HeartOutlined,
+  SafetyOutlined,
+  RiseOutlined,
   TeamOutlined,
   BookOutlined,
   CheckOutlined
@@ -14,10 +14,10 @@ const { Title, Paragraph, Text } = Typography;
 
 const TraumaEmocional = () => {
   return (<><Helmet>
-    <title>Trauma emocional: comprender, validar y sanar | Creciendo Psicología</title>
+    <title>Trauma emocional: comprender, validar y sanar | Integralis Psicología</title>
     <meta name="description" content="Abordamos qué es un trauma emocional, cómo se manifiesta y qué recursos psicológicos ayudan a procesarlo." />
   </Helmet>
-  
+
     <div className="w-full py-32 px-4 sm:px-8 lg:px-32 bg-white">
       {/* Encabezado */}
       <div className="max-w-4xl mx-auto mb-10">
@@ -36,8 +36,8 @@ const TraumaEmocional = () => {
       {/* Introducción */}
       <div className="max-w-4xl mx-auto mb-12">
         <Paragraph className="text-lg text-gray-700 leading-relaxed">
-          El trauma emocional es una herida invisible que perdura mucho después de que los eventos dolorosos hayan terminado. 
-          Como psicóloga especializada en trauma, he acompañado a numerosos pacientes en su camino hacia la sanación, 
+          El trauma emocional es una herida invisible que perdura mucho después de que los eventos dolorosos hayan terminado.
+          Como psicóloga especializada en trauma, he acompañado a numerosos pacientes en su camino hacia la sanación,
           y en este artículo quiero compartir un marco comprensivo para entender este fenómeno complejo.
         </Paragraph>
       </div>
@@ -48,10 +48,10 @@ const TraumaEmocional = () => {
           <SafetyOutlined className="text-blue-500 mr-3" />
           ¿Qué es exactamente el trauma emocional?
         </Title>
-        
+
         <Paragraph className="text-gray-700 mb-4 leading-relaxed">
-          El trauma emocional ocurre cuando experiencias abrumadoras superan nuestra capacidad de procesamiento psicológico. 
-          No se trata solo del evento en sí, sino de cómo nuestro sistema nervioso y nuestra mente interpretan y almacenan 
+          El trauma emocional ocurre cuando experiencias abrumadoras superan nuestra capacidad de procesamiento psicológico.
+          No se trata solo del evento en sí, sino de cómo nuestro sistema nervioso y nuestra mente interpretan y almacenan
           esa experiencia.
         </Paragraph>
 
@@ -70,7 +70,7 @@ const TraumaEmocional = () => {
         <Paragraph className="text-gray-700 leading-relaxed">
           Los eventos potencialmente traumáticos pueden incluir:
         </Paragraph>
-        
+
         <ul className="list-disc pl-6 text-gray-700 space-y-2 mt-3 mb-6">
           <li>Abuso físico, emocional o sexual</li>
           <li>Accidentes graves o desastres naturales</li>
@@ -154,7 +154,7 @@ const TraumaEmocional = () => {
         </Title>
 
         <Paragraph className="text-gray-700 mb-6 leading-relaxed">
-          En mi práctica clínica, utilizo un enfoque integrador que combina varias metodologías basadas en evidencia, 
+          En mi práctica clínica, utilizo un enfoque integrador que combina varias metodologías basadas en evidencia,
           adaptadas a las necesidades específicas de cada paciente.
         </Paragraph>
 
@@ -166,7 +166,7 @@ const TraumaEmocional = () => {
               Terapia Cognitivo-Conductual para Trauma (TF-CBT)
             </Title>
             <Paragraph className="text-gray-700">
-              Este enfoque estructurado ayuda a procesar recuerdos traumáticos y modificar pensamientos distorsionados 
+              Este enfoque estructurado ayuda a procesar recuerdos traumáticos y modificar pensamientos distorsionados
               asociados al trauma. Trabajamos en:
             </Paragraph>
             <ul className="list-disc pl-6 text-gray-700 mt-2 space-y-1">
@@ -183,7 +183,7 @@ const TraumaEmocional = () => {
               EMDR (Desensibilización y Reprocesamiento por Movimientos Oculares)
             </Title>
             <Paragraph className="text-gray-700">
-              Método basado en la neurociencia que facilita el procesamiento adaptativo de experiencias traumáticas 
+              Método basado en la neurociencia que facilita el procesamiento adaptativo de experiencias traumáticas
               mediante estimulación bilateral. Particularmente efectivo para:
             </Paragraph>
             <ul className="list-disc pl-6 text-gray-700 mt-2 space-y-1">

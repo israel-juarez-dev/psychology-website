@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function ComunicacionEnPareja() {
   return (<><Helmet>
-    <title>Cómo mejorar la comunicación en pareja | Creciendo Psicología</title>
+    <title>Cómo mejorar la comunicación en pareja | Integralis Psicología</title>
     <meta name="description" content="Claves psicológicas para mejorar la comunicación en la relación de pareja y resolver conflictos de forma saludable." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Hero Header */}
@@ -41,7 +41,7 @@ export default function ComunicacionEnPareja() {
                 5 Errores de Comunicación que Dañan la Pareja
               </h2>
             </div>
-            
+
             <div className="space-y-4">
               <div className="flex items-start">
                 <span className="bg-pink-100 text-pink-800 rounded-full p-2 mr-4">
@@ -54,7 +54,7 @@ export default function ComunicacionEnPareja() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-pink-100 text-pink-800 rounded-full p-2 mr-4">
                   <span className="font-bold">2</span>
@@ -66,7 +66,7 @@ export default function ComunicacionEnPareja() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-pink-100 text-pink-800 rounded-full p-2 mr-4">
                   <span className="font-bold">3</span>
@@ -78,7 +78,7 @@ export default function ComunicacionEnPareja() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-pink-100 text-pink-800 rounded-full p-2 mr-4">
                   <span className="font-bold">4</span>
@@ -90,7 +90,7 @@ export default function ComunicacionEnPareja() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-pink-100 text-pink-800 rounded-full p-2 mr-4">
                   <span className="font-bold">5</span>
@@ -146,7 +146,7 @@ export default function ComunicacionEnPareja() {
                 Ejercicio Práctico: La Técnica del Hablante-Oyente
               </h2>
             </div>
-            
+
             <div className="space-y-4">
               <div className="flex items-start">
                 <span className="bg-rose-100 text-rose-800 rounded-full p-2 mr-4">
@@ -158,7 +158,7 @@ export default function ComunicacionEnPareja() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-rose-100 text-rose-800 rounded-full p-2 mr-4">
                   <span className="font-bold">2</span>
@@ -169,7 +169,7 @@ export default function ComunicacionEnPareja() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-rose-100 text-rose-800 rounded-full p-2 mr-4">
                   <span className="font-bold">3</span>
@@ -180,7 +180,7 @@ export default function ComunicacionEnPareja() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-rose-100 text-rose-800 rounded-full p-2 mr-4">
                   <span className="font-bold">4</span>
@@ -192,7 +192,7 @@ export default function ComunicacionEnPareja() {
                 </div>
               </div>
             </div>
-            
+
             <p className="text-gray-700 mt-4 text-sm italic">
               Este ejercicio, validado por la investigación del Dr. John Gottman, reduce la escalada de conflictos en un 40% cuando se practica regularmente.
             </p>
@@ -230,7 +230,7 @@ export default function ComunicacionEnPareja() {
                 ¿Cuándo considerar terapia de pareja?
               </h2>
             </div>
-            
+
             <ul className="space-y-3 mb-4">
               <li className="flex items-start">
                 <span className="bg-blue-100 text-blue-800 rounded-full p-1 mr-3 mt-1">
@@ -265,7 +265,7 @@ export default function ComunicacionEnPareja() {
                 <span className="text-gray-700">Si hay heridas emocionales no resueltas que interfieren</span>
               </li>
             </ul>
-            
+
             <p className="text-gray-700 leading-relaxed">
               La terapia de pareja puede proporcionar un espacio seguro para reconstruir la confianza y aprender nuevas formas de comunicación.
             </p>
@@ -297,7 +297,7 @@ export default function ComunicacionEnPareja() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-pink-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-pink-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>

@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function CelosEInseguridad() {
   return (<><Helmet>
-    <title>Celos e inseguridad: entendiendo su origen y manejo | Creciendo Psicología</title>
+    <title>Celos e inseguridad: entendiendo su origen y manejo | Integralis Psicología</title>
     <meta name="description" content="Exploramos desde la psicología el origen de los celos y la inseguridad, y cómo trabajarlos de manera saludable." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Hero Header */}
@@ -41,7 +41,7 @@ export default function CelosEInseguridad() {
                 Las 5 Raíces Psicológicas de los Celos Intensos
               </h2>
             </div>
-            
+
             <div className="space-y-4">
               <div className="flex items-start">
                 <span className="bg-orange-100 text-orange-800 rounded-full p-2 mr-4">
@@ -54,7 +54,7 @@ export default function CelosEInseguridad() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-orange-100 text-orange-800 rounded-full p-2 mr-4">
                   <span className="font-bold">2</span>
@@ -66,7 +66,7 @@ export default function CelosEInseguridad() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-orange-100 text-orange-800 rounded-full p-2 mr-4">
                   <span className="font-bold">3</span>
@@ -78,7 +78,7 @@ export default function CelosEInseguridad() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-orange-100 text-orange-800 rounded-full p-2 mr-4">
                   <span className="font-bold">4</span>
@@ -90,7 +90,7 @@ export default function CelosEInseguridad() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-orange-100 text-orange-800 rounded-full p-2 mr-4">
                   <span className="font-bold">5</span>
@@ -146,7 +146,7 @@ export default function CelosEInseguridad() {
                 6 Estrategias para Gestionar Celos e Inseguridad
               </h2>
             </div>
-            
+
             <div className="space-y-4">
               <div className="flex items-start">
                 <span className="bg-amber-100 text-amber-800 rounded-full p-2 mr-4">
@@ -159,7 +159,7 @@ export default function CelosEInseguridad() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-amber-100 text-amber-800 rounded-full p-2 mr-4">
                   <span className="font-bold">2</span>
@@ -171,7 +171,7 @@ export default function CelosEInseguridad() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-amber-100 text-amber-800 rounded-full p-2 mr-4">
                   <span className="font-bold">3</span>
@@ -183,7 +183,7 @@ export default function CelosEInseguridad() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-amber-100 text-amber-800 rounded-full p-2 mr-4">
                   <span className="font-bold">4</span>
@@ -195,7 +195,7 @@ export default function CelosEInseguridad() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-amber-100 text-amber-800 rounded-full p-2 mr-4">
                   <span className="font-bold">5</span>
@@ -207,7 +207,7 @@ export default function CelosEInseguridad() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-amber-100 text-amber-800 rounded-full p-2 mr-4">
                   <span className="font-bold">6</span>
@@ -230,7 +230,7 @@ export default function CelosEInseguridad() {
                 ¿Cuándo buscar ayuda profesional?
               </h2>
             </div>
-            
+
             <ul className="space-y-3 mb-4">
               <li className="flex items-start">
                 <span className="bg-red-100 text-red-800 rounded-full p-1 mr-3 mt-1">
@@ -293,7 +293,7 @@ export default function CelosEInseguridad() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-orange-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-orange-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>

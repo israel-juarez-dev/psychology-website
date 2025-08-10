@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function AceptacionPersonal() {
   return (<><Helmet>
-    <title>Aceptación personal: el primer paso hacia el bienestar | Creciendo Psicología</title>
+    <title>Aceptación personal: el primer paso hacia el bienestar | Integralis Psicología</title>
     <meta name="description" content="Reflexionamos sobre la importancia de aceptarte tal como eres y cómo fortalecer tu identidad desde la psicología." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Hero Header */}
@@ -41,7 +41,7 @@ export default function AceptacionPersonal() {
                 ¿Qué es realmente la aceptación personal?
               </h2>
             </div>
-            
+
             <div className="grid md:grid-cols-2 gap-6">
               <div>
                 <h3 className="font-medium text-gray-800 mb-2">No es:</h3>
@@ -127,7 +127,7 @@ export default function AceptacionPersonal() {
                 6 Estrategias para Cultivar la Aceptación Personal
               </h2>
             </div>
-            
+
             <div className="space-y-4">
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
@@ -140,7 +140,7 @@ export default function AceptacionPersonal() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">2</span>
@@ -152,7 +152,7 @@ export default function AceptacionPersonal() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">3</span>
@@ -164,7 +164,7 @@ export default function AceptacionPersonal() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">4</span>
@@ -176,7 +176,7 @@ export default function AceptacionPersonal() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">5</span>
@@ -188,7 +188,7 @@ export default function AceptacionPersonal() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">6</span>
@@ -211,7 +211,7 @@ export default function AceptacionPersonal() {
                 Beneficios Científicamente Comprobados
               </h2>
             </div>
-            
+
             <ul className="grid sm:grid-cols-2 gap-4 mb-4">
               <li className="flex items-start">
                 <span className="text-blue-500 mr-2">•</span>
@@ -278,7 +278,7 @@ export default function AceptacionPersonal() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-indigo-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-indigo-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>

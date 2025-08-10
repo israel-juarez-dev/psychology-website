@@ -8,21 +8,21 @@ const { useBreakpoint } = Grid;
 
 const VocacionYProfesion = () => {
   const screens = useBreakpoint();
-  
+
   return (<><Helmet>
-    <title>Vocación y profesión: decisiones con sentido | Creciendo Psicología</title>
+    <title>Vocación y profesión: decisiones con sentido | Integralis Psicología</title>
     <meta name="description" content="Guía psicológica para entender la vocación, elegir carrera y construir un proyecto profesional con propósito." />
   </Helmet>
-  
+
     <div className="w-full py-16 px-4 sm:px-8 lg:px-24 bg-gray-50">
-      <Title 
-        level={2} 
+      <Title
+        level={2}
         className="text-center mb-12 font-bold text-gray-800"
       >
         <TeamOutlined className="mr-2" />
         Vocación y <span className="text-blue-600">Profesión</span> en Psicología
       </Title>
-      
+
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-7xl mx-auto">
         {/* Sección de Vocación ampliada */}
         <Card
@@ -45,7 +45,7 @@ const VocacionYProfesion = () => {
             </Paragraph>
           </div>
         </Card>
-        
+
         {/* Sección de Desarrollo Profesional ampliada */}
         <Card
           hoverable
@@ -67,7 +67,7 @@ const VocacionYProfesion = () => {
             </Paragraph>
           </div>
         </Card>
-        
+
         {/* Sección de Integración ampliada */}
         <div className="md:col-span-2">
           <Card

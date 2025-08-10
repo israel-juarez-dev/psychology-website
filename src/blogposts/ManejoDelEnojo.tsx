@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function ManejoDelEnojo() {
   return (<><Helmet>
-    <title>Cómo manejar el enojo de forma saludable | Creciendo Psicología</title>
+    <title>Cómo manejar el enojo de forma saludable | Integralis Psicología</title>
     <meta name="description" content="Aprende estrategias psicológicas para comprender y canalizar el enojo sin dañar tus relaciones ni a ti mismo." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Hero Header */}
@@ -41,7 +41,7 @@ export default function ManejoDelEnojo() {
                 ¿Qué ocurre en tu cerebro cuando sientes enojo?
               </h2>
             </div>
-            
+
             <div className="grid md:grid-cols-2 gap-6">
               <div>
                 <h3 className="font-medium text-gray-800 mb-2">Respuesta fisiológica</h3>
@@ -121,7 +121,7 @@ export default function ManejoDelEnojo() {
                 7 Estrategias para Manejar el Enojo Saludablemente
               </h2>
             </div>
-            
+
             <div className="space-y-4">
               <div className="flex items-start">
                 <span className="bg-orange-100 text-orange-800 rounded-full p-2 mr-4">
@@ -134,7 +134,7 @@ export default function ManejoDelEnojo() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-orange-100 text-orange-800 rounded-full p-2 mr-4">
                   <span className="font-bold">2</span>
@@ -146,7 +146,7 @@ export default function ManejoDelEnojo() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-orange-100 text-orange-800 rounded-full p-2 mr-4">
                   <span className="font-bold">3</span>
@@ -158,7 +158,7 @@ export default function ManejoDelEnojo() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-orange-100 text-orange-800 rounded-full p-2 mr-4">
                   <span className="font-bold">4</span>
@@ -170,7 +170,7 @@ export default function ManejoDelEnojo() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-orange-100 text-orange-800 rounded-full p-2 mr-4">
                   <span className="font-bold">5</span>
@@ -182,7 +182,7 @@ export default function ManejoDelEnojo() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-orange-100 text-orange-800 rounded-full p-2 mr-4">
                   <span className="font-bold">6</span>
@@ -194,7 +194,7 @@ export default function ManejoDelEnojo() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-orange-100 text-orange-800 rounded-full p-2 mr-4">
                   <span className="font-bold">7</span>
@@ -217,7 +217,7 @@ export default function ManejoDelEnojo() {
                 Señales de que el Enojo Requiere Ayuda Profesional
               </h2>
             </div>
-            
+
             <ul className="grid sm:grid-cols-2 gap-4 mb-4">
               <li className="flex items-start">
                 <span className="text-red-600 mr-2">•</span>
@@ -244,7 +244,7 @@ export default function ManejoDelEnojo() {
                 Uso de sustancias para "calmar" el enojo
               </li>
             </ul>
-            
+
             <p className="text-gray-700 leading-relaxed">
               La terapia cognitivo-conductual ha demostrado un 75% de efectividad en el manejo de trastornos de ira según estudios clínicos.
             </p>
@@ -281,7 +281,7 @@ export default function ManejoDelEnojo() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-red-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-red-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>

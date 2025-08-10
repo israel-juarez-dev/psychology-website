@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function Ansiedad() {
   return (<><Helmet>
-    <title>Ansiedad: cómo entenderla y manejarla desde la psicología | Creciendo Psicología</title>
+    <title>Ansiedad: cómo entenderla y manejarla desde la psicología | Integralis Psicología</title>
     <meta name="description" content="Exploramos el origen de la ansiedad, sus síntomas y estrategias psicológicas para afrontarla de forma saludable." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Hero Header */}
@@ -257,7 +257,7 @@ export default function Ansiedad() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-indigo-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-indigo-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>

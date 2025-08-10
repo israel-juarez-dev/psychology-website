@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function RupturaDespuesDeAnios() {
   return (<><Helmet>
-    <title>Ruptura después de muchos años de relación: cómo afrontarla | Creciendo Psicología</title>
+    <title>Ruptura después de muchos años de relación: cómo afrontarla | Integralis Psicología</title>
     <meta name="description" content="Desde la psicología, abordamos el impacto emocional de una separación prolongada y cómo reconstruirse después." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Hero Header */}
@@ -41,7 +41,7 @@ export default function RupturaDespuesDeAnios() {
                 El Duelo Particular de una Ruptura Larga
               </h2>
             </div>
-            
+
             <div className="grid md:grid-cols-2 gap-6">
               <div>
                 <h3 className="font-medium text-gray-800 mb-2">Pérdidas múltiples</h3>
@@ -105,7 +105,7 @@ export default function RupturaDespuesDeAnios() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-blue-100 text-blue-800 rounded-full p-2 mr-4">
                   <span className="font-bold">2</span>
@@ -117,7 +117,7 @@ export default function RupturaDespuesDeAnios() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-blue-100 text-blue-800 rounded-full p-2 mr-4">
                   <span className="font-bold">3</span>
@@ -129,7 +129,7 @@ export default function RupturaDespuesDeAnios() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-blue-100 text-blue-800 rounded-full p-2 mr-4">
                   <span className="font-bold">4</span>
@@ -152,7 +152,7 @@ export default function RupturaDespuesDeAnios() {
                 7 Estrategias para Reconstruir tu Vida
               </h2>
             </div>
-            
+
             <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-white p-5 rounded-lg border border-gray-100 shadow-sm">
                 <h3 className="font-medium text-gray-800 mb-2">1. Reconoce la magnitud</h3>
@@ -207,7 +207,7 @@ export default function RupturaDespuesDeAnios() {
                 ¿Cuándo considerar ayuda profesional?
               </h2>
             </div>
-            
+
             <ul className="space-y-3 mb-4">
               <li className="flex items-start">
                 <span className="bg-indigo-100 text-indigo-800 rounded-full p-1 mr-3 mt-1">
@@ -270,7 +270,7 @@ export default function RupturaDespuesDeAnios() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-blue-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-blue-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>

@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function PsicologiaDelPerdon() {
   return (<><Helmet>
-    <title>Psicología del perdón: liberar el resentimiento | Creciendo Psicología</title>
+    <title>Psicología del perdón: liberar el resentimiento | Integralis Psicología</title>
     <meta name="description" content="Analizamos cómo el perdón impacta emocionalmente y cómo encontrar paz mental desde la psicología." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Header */}
@@ -146,7 +146,7 @@ export default function PsicologiaDelPerdon() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-rose-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-rose-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>

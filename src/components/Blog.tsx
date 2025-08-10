@@ -175,20 +175,20 @@ const categoryColors = {
 
 const BlogIndex = () => {
   return (<><Helmet>
-    <title>Blog de Psicología | Creciendo Psicología</title>
+    <title>Blog de Psicología | Integralis Psicología</title>
     <meta
       name="description"
       content="Lee artículos sobre salud mental, emociones, relaciones y crecimiento personal desde un enfoque psicológico accesible y profesional."
     />
-    <meta property="og:title" content="Blog de Psicología | Creciendo Psicología" />
+    <meta property="og:title" content="Blog de Psicología | Integralis Psicología" />
     <meta
       property="og:description"
       content="Explora reflexiones y recursos sobre autoestima, ansiedad, manejo emocional y más. Psicoterapia explicada con claridad y empatía."
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.creciendopsicologia.com/blog" />
-    <meta property="og:image" content="https://www.creciendopsicologia.com/og-blog.jpg" />
-    <link rel="canonical" href="https://www.creciendopsicologia.com/blog" />
+    <meta property="og:url" content="https://www.Integralispsicologia.com/blog" />
+    <meta property="og:image" content="https://www.Integralispsicologia.com/og-blog.jpg" />
+    <link rel="canonical" href="https://www.Integralispsicologia.com/blog" />
   </Helmet>
     <div className="max-w-7xl mx-auto px-4 py-36 sm:px-6 lg:px-8">
       {/* Hero Section */}
@@ -230,7 +230,7 @@ const BlogIndex = () => {
                 </Link>
               </h2>
               <p className="text-gray-600 mb-4">{post.excerpt}</p>
-              
+
               <div className="flex items-center justify-between mt-6">
                 <div className="flex items-center text-sm text-gray-500">
                   <CalendarOutlined className="mr-1" />
@@ -241,7 +241,7 @@ const BlogIndex = () => {
                   <span>{post.readTime}</span>
                 </div>
               </div>
-              
+
               <Link
                 to={`/blog/${post.slug}`}
                 className="mt-6 inline-flex items-center text-indigo-600 hover:text-indigo-800 font-medium transition-colors"

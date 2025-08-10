@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function Depresion() {
   return (<><Helmet>
-    <title>¿Qué es la depresión y cómo tratarla? | Creciendo Psicología</title>
+    <title>¿Qué es la depresión y cómo tratarla? | Integralis Psicología</title>
     <meta name="description" content="Conoce los síntomas de la depresión, sus causas y cómo abordarla desde un enfoque psicológico práctico y humano." />
   </Helmet>
-  
+
     <main className="max-w-4xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-lg rounded-lg overflow-hidden">
         {/* Header with gradient background */}

@@ -59,7 +59,7 @@ const NavBar = () => {
           onClick={() => handleScroll('home')}
           className="cursor-pointer text-2xl font-semibold text-green-600"
         >
-          Creciendo Psicología
+          Integralis Psicología
         </motion.span>
       </div>
 

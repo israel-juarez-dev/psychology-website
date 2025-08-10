@@ -6,7 +6,7 @@ import { Helmet } from 'react-helmet-async';
 const Infidelidad = () => {
   return (
     <><Helmet>
-      <title>Cómo enfrentar una infidelidad desde la psicología | Creciendo Psicología</title>
+      <title>Cómo enfrentar una infidelidad desde la psicología | Integralis Psicología</title>
       <meta name="description" content="Reflexiones psicológicas sobre el proceso emocional después de una traición y cómo iniciar un proceso de sanación." />
     </Helmet>
 
@@ -157,7 +157,7 @@ const Infidelidad = () => {
 
             {/* Footer */}
             <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-              <p>Publicado por <span className="font-semibold text-green-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+              <p>Publicado por <span className="font-semibold text-green-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
             </footer>
           </div>
         </article>

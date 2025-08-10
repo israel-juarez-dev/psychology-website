@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function CambiosPersonal() {
   return (<><Helmet>
-    <title>Cómo afrontar cambios personales importantes | Creciendo Psicología</title>
+    <title>Cómo afrontar cambios personales importantes | Integralis Psicología</title>
     <meta name="description" content="Desde la psicología, analizamos cómo adaptarte a cambios internos o externos sin perder tu equilibrio emocional." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Header */}
@@ -130,7 +130,7 @@ export default function CambiosPersonal() {
               No se trata de convertirte en alguien diferente, sino en alguien más honesto contigo mismo. Cambiar es muchas veces reaprender a cuidarte.
             </p>
             <p className="text-gray-700 leading-relaxed">
-              Aunque el camino no siempre sea recto, cada paso cuenta. Y cada paso es prueba de que estás avanzando, incluso si a veces retrocedes un poco. Sé paciente. Estás creciendo.
+              Aunque el camino no siempre sea recto, cada paso cuenta. Y cada paso es prueba de que estás avanzando, incluso si a veces retrocedes un poco. Sé paciente. Estás Integralis.
             </p>
           </section>
 
@@ -147,7 +147,7 @@ export default function CambiosPersonal() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-teal-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-teal-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>

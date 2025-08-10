@@ -1,13 +1,13 @@
 import { Link } from 'react-router-dom';
-import { WarningOutlined, HeartOutlined, ArrowRightOutlined,ArrowLeftOutlined, TeamOutlined } from '@ant-design/icons';
+import { WarningOutlined, HeartOutlined, ArrowRightOutlined, ArrowLeftOutlined, TeamOutlined } from '@ant-design/icons';
 import { Helmet } from 'react-helmet-async';
 
 export default function RelacionesToxicas() {
   return (<><Helmet>
-    <title>Cómo identificar y salir de una relación tóxica | Creciendo Psicología</title>
+    <title>Cómo identificar y salir de una relación tóxica | Integralis Psicología</title>
     <meta name="description" content="Descubre señales de relaciones tóxicas y aprende cómo establecer límites saludables desde la psicología." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Hero Header */}
@@ -41,7 +41,7 @@ export default function RelacionesToxicas() {
                 10 Señales de una Relación Tóxica
               </h2>
             </div>
-            
+
             <div className="space-y-4">
               <div className="flex items-start">
                 <span className="bg-red-100 text-red-800 rounded-full p-2 mr-4">
@@ -54,7 +54,7 @@ export default function RelacionesToxicas() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-red-100 text-red-800 rounded-full p-2 mr-4">
                   <span className="font-bold">2</span>
@@ -66,7 +66,7 @@ export default function RelacionesToxicas() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-red-100 text-red-800 rounded-full p-2 mr-4">
                   <span className="font-bold">3</span>
@@ -78,7 +78,7 @@ export default function RelacionesToxicas() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-red-100 text-red-800 rounded-full p-2 mr-4">
                   <span className="font-bold">4</span>
@@ -90,7 +90,7 @@ export default function RelacionesToxicas() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-red-100 text-red-800 rounded-full p-2 mr-4">
                   <span className="font-bold">5</span>
@@ -102,7 +102,7 @@ export default function RelacionesToxicas() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-red-100 text-red-800 rounded-full p-2 mr-4">
                   <span className="font-bold">6</span>
@@ -114,7 +114,7 @@ export default function RelacionesToxicas() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-red-100 text-red-800 rounded-full p-2 mr-4">
                   <span className="font-bold">7</span>
@@ -126,7 +126,7 @@ export default function RelacionesToxicas() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-red-100 text-red-800 rounded-full p-2 mr-4">
                   <span className="font-bold">8</span>
@@ -138,7 +138,7 @@ export default function RelacionesToxicas() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-red-100 text-red-800 rounded-full p-2 mr-4">
                   <span className="font-bold">9</span>
@@ -150,7 +150,7 @@ export default function RelacionesToxicas() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-red-100 text-red-800 rounded-full p-2 mr-4">
                   <span className="font-bold">10</span>
@@ -173,7 +173,7 @@ export default function RelacionesToxicas() {
                 7 Pasos para Salir de una Relación Tóxica
               </h2>
             </div>
-            
+
             <div className="space-y-6">
               <div className="bg-white p-5 rounded-lg border border-green-100 shadow-sm">
                 <h3 className="font-medium text-green-800 mb-2">1. Reconocimiento y validación</h3>
@@ -181,42 +181,42 @@ export default function RelacionesToxicas() {
                   Admite que estás en una relación dañina. No minimices lo que ocurre. Tu malestar es válido aunque otros no vean lo que tú experimentas.
                 </p>
               </div>
-              
+
               <div className="bg-white p-5 rounded-lg border border-green-100 shadow-sm">
                 <h3 className="font-medium text-green-800 mb-2">2. Rompe el aislamiento</h3>
                 <p className="text-gray-700 text-sm">
                   Reconecta con personas de confianza. El apoyo social es crucial para ganar perspectiva y recibir contención emocional.
                 </p>
               </div>
-              
+
               <div className="bg-white p-5 rounded-lg border border-green-100 shadow-sm">
                 <h3 className="font-medium text-green-800 mb-2">3. Establece límites claros</h3>
                 <p className="text-gray-700 text-sm">
                   Decide qué comportamientos no tolerarás más. Comunícalos con firmeza y prepárate para mantenerlos, incluso si la otra persona reacciona mal.
                 </p>
               </div>
-              
+
               <div className="bg-white p-5 rounded-lg border border-green-100 shadow-sm">
                 <h3 className="font-medium text-green-800 mb-2">4. Crea un plan de seguridad</h3>
                 <p className="text-gray-700 text-sm">
                   Si hay riesgo físico o emocional alto, planea con antelación cómo y cuándo saldrás de la relación. Busca asesoría legal si es necesario.
                 </p>
               </div>
-              
+
               <div className="bg-white p-5 rounded-lg border border-green-100 shadow-sm">
                 <h3 className="font-medium text-green-800 mb-2">5. Reconstruye tu autoestima</h3>
                 <p className="text-gray-700 text-sm">
                   Terapia, grupos de apoyo o prácticas como el journaling pueden ayudarte a recuperar la confianza en ti mismo/a.
                 </p>
               </div>
-              
+
               <div className="bg-white p-5 rounded-lg border border-green-100 shadow-sm">
                 <h3 className="font-medium text-green-800 mb-2">6. Prepárate para el "síndrome de abstinencia" emocional</h3>
                 <p className="text-gray-700 text-sm">
                   Las relaciones tóxicas crean dependencia. Es normal extrañar a la persona incluso sabiendo que te hacía daño. Date tiempo para sanar.
                 </p>
               </div>
-              
+
               <div className="bg-white p-5 rounded-lg border border-green-100 shadow-sm">
                 <h3 className="font-medium text-green-800 mb-2">7. Aprende a identificar relaciones saludables</h3>
                 <p className="text-gray-700 text-sm">
@@ -234,11 +234,11 @@ export default function RelacionesToxicas() {
                 El Rol de la Terapia en la Recuperación
               </h2>
             </div>
-            
+
             <p className="text-gray-700 leading-relaxed mb-4">
               La terapia psicológica es fundamental para:
             </p>
-            
+
             <ul className="grid sm:grid-cols-2 gap-4 mb-4">
               <li className="flex items-start">
                 <span className="text-blue-500 mr-2">•</span>
@@ -265,7 +265,7 @@ export default function RelacionesToxicas() {
                 Prevenir relaciones tóxicas futuras
               </li>
             </ul>
-            
+
             <p className="text-gray-700 leading-relaxed">
               Según estudios, las personas que acuden a terapia después de una relación tóxica reducen en un 70% las probabilidades de repetir patrones similares en relaciones futuras.
             </p>
@@ -302,7 +302,7 @@ export default function RelacionesToxicas() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-red-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-red-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>

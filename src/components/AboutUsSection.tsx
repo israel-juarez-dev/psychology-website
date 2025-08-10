@@ -6,10 +6,10 @@ const Nosotros = () => {
   return (
     <>
       <Helmet>
-        <title>¿Quiénes somos? | Creciendo Psicología</title>
+        <title>¿Quiénes somos? | Integralis Psicología</title>
         <meta
           name="description"
-          content="Conoce al equipo de Creciendo Psicología y nuestra visión terapéutica centrada en la evidencia y el bienestar humano."
+          content="Conoce al equipo de Integralis Psicología y nuestra visión terapéutica centrada en la evidencia y el bienestar humano."
         />
       </Helmet>
 
@@ -20,7 +20,7 @@ const Nosotros = () => {
           </h1>
 
           <p className="text-lg leading-relaxed mb-6">
-            En <strong>Creciendo Psicología</strong>, llevamos más de tres años brindando acompañamiento psicoterapéutico a personas que desean mejorar su bienestar emocional y calidad de vida. Nuestro enfoque integra la <strong>terapia cognitivo-conductual</strong> y la <strong>terapia humanista</strong>, lo que nos permite ofrecer un espacio flexible, empático y basado en evidencia científica.
+            En <strong>Integralis Psicología</strong>, llevamos más de tres años brindando acompañamiento psicoterapéutico a personas que desean mejorar su bienestar emocional y calidad de vida. Nuestro enfoque integra la <strong>terapia cognitivo-conductual</strong> y la <strong>terapia humanista</strong>, lo que nos permite ofrecer un espacio flexible, empático y basado en evidencia científica.
           </p>
 
           <p className="text-lg leading-relaxed mb-6">

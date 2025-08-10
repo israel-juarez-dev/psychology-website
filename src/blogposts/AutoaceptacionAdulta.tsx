@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function AutoaceptacionAdulta() {
   return (<><Helmet>
-    <title>Autoaceptación en la adultez: comprender y sanar | Creciendo Psicología</title>
+    <title>Autoaceptación en la adultez: comprender y sanar | Integralis Psicología</title>
     <meta name="description" content="Desde la psicología, hablamos de cómo reconciliarte con tu historia y fortalecer tu identidad adulta." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Hero Header */}
@@ -41,7 +41,7 @@ export default function AutoaceptacionAdulta() {
                 Autoaceptación vs. Autoestima
               </h2>
             </div>
-            
+
             <div className="grid md:grid-cols-2 gap-6">
               <div>
                 <h3 className="font-medium text-gray-800 mb-2">Autoestima</h3>
@@ -127,7 +127,7 @@ export default function AutoaceptacionAdulta() {
                 7 Prácticas para Cultivar la Autoaceptación
               </h2>
             </div>
-            
+
             <div className="space-y-4">
               <div className="flex items-start">
                 <span className="bg-emerald-100 text-emerald-800 rounded-full p-2 mr-4">
@@ -140,7 +140,7 @@ export default function AutoaceptacionAdulta() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-emerald-100 text-emerald-800 rounded-full p-2 mr-4">
                   <span className="font-bold">2</span>
@@ -152,7 +152,7 @@ export default function AutoaceptacionAdulta() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-emerald-100 text-emerald-800 rounded-full p-2 mr-4">
                   <span className="font-bold">3</span>
@@ -164,7 +164,7 @@ export default function AutoaceptacionAdulta() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-emerald-100 text-emerald-800 rounded-full p-2 mr-4">
                   <span className="font-bold">4</span>
@@ -176,7 +176,7 @@ export default function AutoaceptacionAdulta() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-emerald-100 text-emerald-800 rounded-full p-2 mr-4">
                   <span className="font-bold">5</span>
@@ -188,7 +188,7 @@ export default function AutoaceptacionAdulta() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-emerald-100 text-emerald-800 rounded-full p-2 mr-4">
                   <span className="font-bold">6</span>
@@ -200,7 +200,7 @@ export default function AutoaceptacionAdulta() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-emerald-100 text-emerald-800 rounded-full p-2 mr-4">
                   <span className="font-bold">7</span>
@@ -223,7 +223,7 @@ export default function AutoaceptacionAdulta() {
                 Beneficios de la Autoaceptación en la Adultez
               </h2>
             </div>
-            
+
             <ul className="grid sm:grid-cols-2 gap-4 mb-4">
               <li className="flex items-start">
                 <span className="text-blue-500 mr-2">•</span>
@@ -290,7 +290,7 @@ export default function AutoaceptacionAdulta() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-teal-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-teal-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>

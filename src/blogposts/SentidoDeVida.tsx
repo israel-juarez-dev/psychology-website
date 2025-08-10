@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function SentidoDeVida() {
   return (<><Helmet>
-    <title>Buscar sentido a la vida: una mirada psicológica | Creciendo Psicología</title>
+    <title>Buscar sentido a la vida: una mirada psicológica | Integralis Psicología</title>
     <meta name="description" content="Reflexionamos sobre el propósito de vida desde la psicología y cómo encontrar dirección en momentos de crisis." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Hero Header */}
@@ -110,7 +110,7 @@ export default function SentidoDeVida() {
                 5 Estrategias para Descubrir tu Sentido de Vida
               </h2>
             </div>
-            
+
             <div className="space-y-4">
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
@@ -123,7 +123,7 @@ export default function SentidoDeVida() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">2</span>
@@ -135,7 +135,7 @@ export default function SentidoDeVida() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">3</span>
@@ -147,7 +147,7 @@ export default function SentidoDeVida() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">4</span>
@@ -159,7 +159,7 @@ export default function SentidoDeVida() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">5</span>
@@ -232,7 +232,7 @@ export default function SentidoDeVida() {
                 Cómo puede ayudar la terapia psicológica
               </h2>
             </div>
-            
+
             <div className="grid md:grid-cols-2 gap-6">
               <div>
                 <h3 className="font-medium text-gray-800 mb-2">Enfoques terapéuticos útiles</h3>
@@ -313,7 +313,7 @@ export default function SentidoDeVida() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-indigo-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-indigo-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>

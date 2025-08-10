@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function ComparacionSocial() {
   return (<><Helmet>
-    <title>Comparación social: cómo afecta nuestra autoestima | Creciendo Psicología</title>
+    <title>Comparación social: cómo afecta nuestra autoestima | Integralis Psicología</title>
     <meta name="description" content="Exploramos cómo la comparación constante con los demás impacta nuestra autoimagen y qué hacer al respecto." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Hero Header */}
@@ -41,7 +41,7 @@ export default function ComparacionSocial() {
                 ¿Por qué nos comparamos tanto?
               </h2>
             </div>
-            
+
             <div className="grid md:grid-cols-2 gap-6">
               <div>
                 <h3 className="font-medium text-gray-800 mb-2">Razones evolutivas</h3>
@@ -106,12 +106,12 @@ export default function ComparacionSocial() {
           {/* Costos Emocionales */}
           <section className="mb-10 bg-pink-50 p-6 rounded-lg">
             <div className="flex items-center mb-4">
-            
+
               <h2 className="text-2xl font-semibold text-gray-800">
                 Costos Emocionales de la Comparación Excesiva
               </h2>
             </div>
-            
+
             <div className="grid md:grid-cols-2 gap-6">
               <div>
                 <h3 className="font-medium text-gray-800 mb-2">Efectos psicológicos</h3>
@@ -167,7 +167,7 @@ export default function ComparacionSocial() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">2</span>
@@ -179,7 +179,7 @@ export default function ComparacionSocial() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">3</span>
@@ -191,7 +191,7 @@ export default function ComparacionSocial() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">4</span>
@@ -203,7 +203,7 @@ export default function ComparacionSocial() {
                   </p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <span className="bg-purple-100 text-purple-800 rounded-full p-2 mr-4">
                   <span className="font-bold">5</span>
@@ -226,7 +226,7 @@ export default function ComparacionSocial() {
                 Beneficios de Reducir la Comparación Social
               </h2>
             </div>
-            
+
             <ul className="grid sm:grid-cols-2 gap-4 mb-4">
               <li className="flex items-start">
                 <span className="text-indigo-500 mr-2">•</span>
@@ -293,7 +293,7 @@ export default function ComparacionSocial() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-purple-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-purple-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>

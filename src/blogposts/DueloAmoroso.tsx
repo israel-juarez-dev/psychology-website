@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function DueloAmoroso() {
   return (<><Helmet>
-    <title>Duelo amoroso: cómo sanar después de una ruptura | Creciendo Psicología</title>
+    <title>Duelo amoroso: cómo sanar después de una ruptura | Integralis Psicología</title>
     <meta name="description" content="Entiende el proceso emocional tras una ruptura de pareja y encuentra herramientas psicológicas para superar el duelo." />
   </Helmet>
-  
+
     <main className="max-w-4xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-lg rounded-lg overflow-hidden">
         {/* Header with romantic-themed gradient */}

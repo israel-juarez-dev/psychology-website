@@ -41,20 +41,20 @@ const ContactSection = () => {
 
   return (
     <> <Helmet>
-      <title>Contacto | Creciendo Psicología</title>
+      <title>Contacto | Integralis Psicología</title>
       <meta
         name="description"
         content="¿Quieres agendar una sesión de terapia psicológica? Contáctanos por WhatsApp o llena el formulario. Atención cercana, confidencial y sin compromiso inicial."
       />
-      <meta property="og:title" content="Contacto | Creciendo Psicología" />
+      <meta property="og:title" content="Contacto | Integralis Psicología" />
       <meta
         property="og:description"
         content="Escríbenos por WhatsApp o deja tus datos en el formulario. Atención psicológica desde casa con un enfoque empático y profesional."
       />
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://www.creciendopsicologia.com/contacto" />
-      <meta property="og:image" content="https://www.creciendopsicologia.com/og-contacto.jpg" />
-      <link rel="canonical" href="https://www.creciendopsicologia.com/contacto" />
+      <meta property="og:url" content="https://www.Integralispsicologia.com/contacto" />
+      <meta property="og:image" content="https://www.Integralispsicologia.com/og-contacto.jpg" />
+      <link rel="canonical" href="https://www.Integralispsicologia.com/contacto" />
     </Helmet>
       <section id="contact" className="py-20 bg-white px-4">
         <div className="max-w-3xl mx-auto text-center">

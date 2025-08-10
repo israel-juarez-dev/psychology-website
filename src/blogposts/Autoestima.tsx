@@ -2,7 +2,7 @@ import React from "react";
 import { Helmet } from 'react-helmet-async';
 const Autoestima = () => {
   return (<> <Helmet>
-    <title>¿Qué es la autoestima y cómo fortalecerla? | Creciendo Psicología</title>
+    <title>¿Qué es la autoestima y cómo fortalecerla? | Integralis Psicología</title>
     <meta
       name="description"
       content="Comprende qué es la autoestima, cómo se forma y aprende herramientas prácticas desde la psicología para fortalecerla."
@@ -62,7 +62,7 @@ const Autoestima = () => {
         </div>
 
         <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-          <p>Publicado por <span className="font-semibold text-green-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+          <p>Publicado por <span className="font-semibold text-green-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
         </footer>
       </section>
     </article></>

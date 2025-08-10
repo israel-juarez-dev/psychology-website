@@ -4,10 +4,10 @@ import { Helmet } from 'react-helmet-async';
 
 export default function MiedoAlAbandono() {
   return (<><Helmet>
-    <title>Miedo al abandono: una herida emocional profunda | Creciendo Psicología</title>
+    <title>Miedo al abandono: una herida emocional profunda | Integralis Psicología</title>
     <meta name="description" content="Exploramos el miedo al abandono, sus raíces y cómo sanarlo desde la psicología relacional." />
   </Helmet>
-  
+
     <div className="max-w-5xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <article className="bg-white shadow-xl rounded-2xl overflow-hidden">
         {/* Header */}
@@ -146,7 +146,7 @@ export default function MiedoAlAbandono() {
 
           {/* Footer */}
           <footer className="mt-16 border-t pt-6 text-sm text-gray-500 text-center">
-            <p>Publicado por <span className="font-semibold text-indigo-700">Creciendo Psicología</span>. Todos los derechos reservados.</p>
+            <p>Publicado por <span className="font-semibold text-indigo-700">Integralis Psicología</span>. Todos los derechos reservados.</p>
           </footer>
         </div>
       </article>
